@@ -53,53 +53,53 @@ export const Data=[
 },
 {
     id:3,
-    description:"Capital city",
+    description:"Songs ",
     content:[
         {
-            question: "What is the capital of India?",
-            options:[ "Delhi", "Chattisgarh", "USA", "NOTA"],
-            answer: 1
-        },
-        {
-            question: "What is the capital of Bihar",
-            options:["Delhi", "Chattisgarh", "Patna", "NOTA"],
+            question: "Who is the singer of 'Looking at me' is",
+            options:[ "Bebe Rexha", "Alan walker", "Sabrina Carpenter", "Udit narayan"],
             answer: 3
         },
         {
-            question: "What is the capital of Uttar Pradesh",
-            options: ["Delhi", "Lucknow", "USA", "NOTA"],
-            answer: 1
+            question: "Who is the singer of 'Faded' is",
+            options:["Bebe Rexha", "Alan walker", "Sabrina Carpenter", "Udit narayan"],
+            answer: 2
         },
         {
-            question: "What is the capital of Pakistan",
-            options: ["Delhi", "Chattisgarh", "USA", "Islamabad"],
-            answer:2
+            question: "Who is the singer of 'Khariyat' is",
+            options: ["Bebe Rexha", "Alan walker", "Arijit Singh", "Udit narayan"],
+            answer: 3
+        },
+        {
+            question: "Who is the singer of 'Tera Ghata' is",
+            options: ["Gajendra Verma", "Alan walker", "Arijit Singh", "Udit narayan"],
+            answer:1
         },
     ]
 },
 {
     id:4,
-    description:"Capital city",
+    description:"Movies",
     content:[
         {
-            question: "What is the capital of India?",
-            options:[ "Delhi", "Chattisgarh", "USA", "NOTA"],
+            question: "Who is the director of Jurassic Park",
+            options:[ "Steven Spielberg", "James Cameron", "Russo brothers", "Peter Jackson"],
             answer: 1
         },
         {
-            question: "What is the capital of Bihar",
-            options:["Delhi", "Chattisgarh", "Patna", "NOTA"],
-            answer: 3
+            question: "Who is the director of Avatar",
+            options:["Steven Spielberg", "James Cameron", "Russo brothers", "Peter Jackson"],
+            answer: 2
         },
         {
-            question: "What is the capital of Uttar Pradesh",
-            options: ["Delhi", "Lucknow", "USA", "NOTA"],
+            question: "Who is the director of Harry Potter and the Deathly Hallows",
+            options: ["David Yates", "James Cameron", "Russo brothers", "Peter Jackson"],
             answer: 1
         },
         {
-            question: "What is the capital of Pakistan",
-            options: ["Delhi", "Chattisgarh", "USA", "Islamabad"],
-            answer:2
+            question: "Who is the director of Star Wars: The Force Awakens",
+            options: ["David Yates", "James Cameron", "J. J. Abrams", "Peter Jackson"],
+            answer:3
         },
     ]
 },
