@@ -14,7 +14,9 @@ const Dashboard = (props) => {
     <Space direction="horizontal" size={10}>
     {
       Data.map(item => (
-        <Card title={`Quiz ${item.id}`} bordered={false} style={{ width: 300 }}>
+        <Card title={`Quiz ${item.id}`} bordered={false} style={{ width: 300, backgroundImage: 'linear-gradient(95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64%)'
+        }}
+        >
 
         <p>{`${item.description}`}</p><br /> <br />
         <button id='next-button' onClick={() => ClickHandler(item.id)

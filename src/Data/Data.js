@@ -42,12 +42,12 @@ export const Data=[
         {
             question: "What is the capital of Uttar Pradesh",
             options: ["Delhi", "Lucknow", "USA", "NOTA"],
-            answer: 1
+            answer: 3
         },
         {
             question: "What is the capital of Pakistan",
             options: ["Delhi", "Chattisgarh", "USA", "Islamabad"],
-            answer:2
+            answer:4
         },
     ]
 },
