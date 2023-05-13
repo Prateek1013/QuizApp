@@ -10,7 +10,8 @@ function QuizResult(props) {
     <>
     <div className='show-score'>
         Your Score:{props.score}<br/>
-        Total Score:{props.totalScore}
+        Total Score:{props.totalScore} <br /> <br />
+        Time taken : <br /> {props.min} minutes and {props.sec} seconds!
     </div>
     <Space direction="horizontal" size={75}>
     <button id="next-button" onClick={props.tryAgain} >Try Again</button>
