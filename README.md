@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-Live link:  https://645ea5a022a1e13ee0ab9339--famous-taiyaki-e05572.netlify.app/
-
+Live link:  https://main--stupendous-seahorse-791ce7.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
